@@ -24,7 +24,7 @@ Do we process any [sensitive personal information](#sensitive-information)?
 - Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs.
 - We do not process sensitive personal information.
 
-How do we [process your information](#how-we-process-your-information)?
+How do we [process your information](#2-how-we-process-your-information)?
 
 - We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law.
 - We may also process your information for other purposes with your consent.
@@ -32,15 +32,15 @@ How do we [process your information](#how-we-process-your-information)?
 
 In what situations and with which parties do we share personal information?
 
-- We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#when-and-with-whom-your-personal-information-is-shared).
+- We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#3-when-and-with-whom-your-personal-information-is-shared).
 
 How do we keep your information safe?
 
-- We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#how-we-keep-your-information-safe).
+- We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#7-how-we-keep-your-information-safe).
 
 What are your rights?
 
-- Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#your-privacy-rights).
+- Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#9-your-privacy-rights).
 
 How do you exercise your rights?
 
@@ -195,15 +195,15 @@ We may also collect other personal information outside of these categories throu
 
 **Sources of Personal Information**
 
-- Learn more about the sources of personal information we collect in the section, [Information We Collect](#information-we-collect).
+- Learn more about the sources of personal information we collect in the section, [Information We Collect](#1-information-we-collect).
 
 **How We Use and Share Personal Information**
 
-- Learn about how we use your personal information in the section, [How We Process Your Information](#how-we-process-your-information).
+- Learn about how we use your personal information in the section, [How We Process Your Information](#2-how-we-process-your-information).
 
 **Will your information be shared with anyone else?**
 
-- We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information in the section, [When and With Whom Your Personal Information is Shared](#when-and-with-whom-your-personal-information-is-shared).
+- We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information in the section, [When and With Whom Your Personal Information is Shared](#3-when-and-with-whom-your-personal-information-is-shared).
 - We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" your personal information.
 - We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
 
