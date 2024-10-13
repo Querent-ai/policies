@@ -128,9 +128,13 @@ Our AI Products are designed for the following functions:
 - Text analysis
 - Machine learning models
 
+ #### Data Usage for AI/ML Purposes
+Querent AI products, being self hosted, does not collect, retain, or use any user data obtained through Workspace APIs or any other means for the development, improvement, or training of generalized artificial intelligence (AI) or machine learning (ML) models. All user data is handled solely for the functionality of the application and in compliance with our stated privacy practices.
+
 How We Process Your Data Using AI
 
 - All personal information processed using our AI Products is handled in line with our Privacy Notice and our agreement with third parties. This ensures high security and safeguards your personal information throughout the process, giving you peace of mind about your data's safety.
+
 ## 6. How Long We Keep Your Information
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
